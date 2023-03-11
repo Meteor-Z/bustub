@@ -262,7 +262,10 @@ namespace bustub
          */
         static std::unique_ptr <RowMatrix<T>> Add(const RowMatrix<T>* matrixA, const RowMatrix<T>* matrixB)
         {
+
             // TODO(P0): Add implementation
+            // 计算
+
             return std::unique_ptr<RowMatrix<T>>(nullptr);
         }
 
